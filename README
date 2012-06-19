@@ -1,0 +1,1 @@
+TISSA is a string search application coded in C++. It uses suffix tries to do the searching.
