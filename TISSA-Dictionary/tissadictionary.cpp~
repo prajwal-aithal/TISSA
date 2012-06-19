@@ -1,0 +1,53 @@
+#include "tissadictionary.h"
+#include "ui_tissadictionary.h"
+#include <fstream>
+#include <sstream>
+#include <iostream>
+
+using namespace std;
+
+TISSADictionary::TISSADictionary(QWidget *parent) :
+    QDialog(parent),
+    ui(new Ui::TISSADictionary)
+{
+    ui->setupUi(this);
+
+    ui->pushButton->setDefault(true);
+    ui->pushButton->setEnabled(false);
+    ui->lineEdit->setFocus();
+    connect(ui->lineEdit, SIGNAL(textChanged(QString)), this, SLOT(enableSearch(QString)));
+    ui->lineEdit->setText(tr("Please Wait..."));
+
+    string line, term, meaning;
+    ifstream documentfile("glossary.txt");
+    while (getline(documentfile, line))
+    {
+        stringstream linestream(line);
+        getline(linestream, term, ' ');
+        //cout << term << endl;
+        getline(linestream, meaning);
+        dict.Add_To_Dict(term, meaning);
+    }
+    documentfile.close();
+
+    ui->lineEdit->clear();
+    QMessageBox::information(this, tr("Dictionary Database"), tr("Dictionary Database is ready"));
+}
+
+TISSADictionary::~TISSADictionary()
+{
+    delete ui;
+}
+
+void TISSADictionary::on_pushButton_clicked()
+{
+    usrQry = ui->lineEdit->text();
+    string user_query = usrQry.toStdString();
+    QMessageBox::information(this, "Search Result",
+                             "Word - " + usrQry + '\n' + "Meaning - " + QString::fromStdString(dict.Find_Meaning(user_query)));
+}
+
+void TISSADictionary::enableSearch(const QString &text)
+{
+    ui->pushButton->setEnabled(!text.isEmpty());
+}

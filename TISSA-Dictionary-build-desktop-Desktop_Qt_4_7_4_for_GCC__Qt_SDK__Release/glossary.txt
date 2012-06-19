@@ -1,0 +1,245 @@
+1xRTT       A wireless communications protocol used for connections to networks by devices such as laptop computers. 1xRTT has the capability of providing data transfer speeds of up to 144 thousand bps. 1xRTT is a built on top of another widely used protocol, CDMA and is also called CMDA2000.
+ADN   Usually
+Usually   ADSL
+ADSL       A DSL line where the upload speed is different from the download speed. Usually the download speed is much greater.
+Ajax       A way of including content in a web page in which javascript code in the web page fetches some data from a server and displays it without re-fetching the entire surrounding page at the same time (hence the 'Asynchronous')
+Anonymous   Apache
+Apache       The most common web server (or HTTP server) software on the Internet. Apache is an open-source application originally created from a series of changes ("patches") made to a web server written at the National Center for Supercomputing Applications, the same place the Mosaic web browser was created.
+Applet       A small Java program that can be embedded in an HTML page. Applets differ from full-fledged Java applications in that they are not allowed to access certain resources on the local computer, such as files and serial devices (modems, printers, etc.), and are prohibited from communicating with most other computers across a network. The common rule is that an applet can only make an Internet connection to the computer from which the applet was sent.
+Application       Server software that manages one or more other pieces of software in a way that makes the managed software available over a network, usually to a Web server. By having a piece of software manage other software packages it is possible to use resources like memory and database access more efficiently than if each of the managed packages responded directly to requests.
+Archie       A tool (software) for finding files stored on anonymous FTP sites. You need to know the exact file name or a substring of it. By 1999 Archie had been almost completely replaced by web-based search engines.
+ARPANet       The precursor to the Internet. Developed in the late 60's and early 70's by the US Department of Defense as an experiment in wide-area-networking to connect together computers that were each running different system so that people at one location could use computing resources from another location.
+ASCII       This is the defacto world-wide standard for the code numbers used by computers to represent all the upper and lower-case Latin letters, numbers, punctuation, etc. There are 128 standard ASCII codes each of which can be represented by a 7 digit binary number: 0000000 through 1111111.
+ASP       A organization (usually a business) that runs one or more applications on their own servers and provides (usually for a fee) access to others. Common examples of services provided this way include web-based software such as Calendar systems, Human Resources tools (timesheets, benefits, etc.), and various applications to help groups collaborate on projects.
+Atom   An
+An       Atom is being developed as a succesor to and improvement over RSS and is more complex than RSS while offering support for additional features such digital signatures, geographic location of author, possibly security/encryption, licensing, etc.
+Like   Backbone
+Backbone       A high-speed line or series of connections that forms a major pathway within a network. The term is relative as a backbone in a small network will likely be much smaller than many non-backbone lines in a large network.
+Bandwidth       How much stuff you can send through a connection. Usually measured in bits-per-second (bps.) A full page of English text is about 16,000 bits. A fast modem can move about 57,000 bits in one second. Full-motion full-screen video would require roughly 10,000,000 bits-per-second, depending on compression.
+Baud       In common usage the "baud" of a modem is how many bits it can send or receive per second. Technically, baud is the number of times per second that the carrier signal shifts value - for example a 1200 bit-per-second modem actually runs at 300 baud, but it moves 4 bits per baud (4 x 300= 1200 bits per second).
+BBS       A computerized meeting and announcement system that allows people to carry on discussions, upload and download files, and make announcements without the people being connected to the computer at the same time. In the early 1990's there were many thousands (millions?) of BBS's around the world, most were very small, running on a single IBM clone PC with 1 or 2 phone lines. Some were very large and the line between a BBS and a system like AOL gets crossed at some point, but it is not clearly drawn.
+Binary       Information consisting entirely of ones and zeros. Also, commonly used to refer to files that are not simply text files, e.g. images.
+Binhex       A method for converting non-text files (non-ASCII) into ASCII. This is needed because Internet e-mail can only handle ASCII.
+Bit       A single digit number in base-2, in other words, either a 1 or a zero. The smallest unit of computerized data. Bandwidthis usually measured in bits-per-second.
+BITNET       A network of educational sites separate from the Internet, but e-mail is freely exchanged between BITNET and the Internet. Listservs®, a popular form of e-mail discussion groups, originated on BITNET. At its peak (the late 1980's and early 1990's) BITNET machines were usually mainframes, often running IBM's MVS operating system. BITNET is probably the only international network that is shrinking.
+Blog       A blog is basically a journal that is available on the web. The activity of updating a blog is "blogging" and someone who keeps a blog is a "blogger." Blogs are typically updated daily using software that allows people with little or no technical background to update and maintain the blog.
+It   Blogosphere
+Blogosphere       The current state of all information available on blogs and/or the sub-culture of those who create and use blogs.
+bps       A measurement of how fast data is moved from one place to another. A 56K modem can move about 57,000 bits per second.
+Broadband       Generally refers to connections to the Internet with much greater bandwidth than you can get with a modem. There is no specific definition of the speed of a "broadband" connection but in general any Internet connection using DSL or a via Cable-TV may be considered a broadband connection.
+Browser       A Client program (software) that is used to look at various kinds of Internet resources.
+BTW   A
+A   Byte
+Byte       A set of Bits that represent a single character. Usually there are 8 Bits in a Byte, sometimes more, depending on how the measurement is being made.
+CATP   Common
+Common       CATP was first used at the Binary Cafe in Cybertown and quickly spread world-wide.
+CDMA       A protocol for wireless data and voice communication, CMDA is widely used in cellphone networks, but also in many other data communications systems. CDMA uses a technique called "Spread Spectrum" whereby the data being transmitted is spread across multiple radio frequencies, making more efficent use of available radio spectrum. There are a number of additional protocols built on top of CDMA, such as 1xRTT (also called CMDA2000).
+Certificate   An
+An   CGI
+CGI       A set of rules that describe how a Web Server communicates with another piece of software on the same machine, and how the other piece of software (the ?CGI program?) talks to the web server. Any piece of software can be a CGI program if it handles input and output according to the CGI standard.
+cgi-bin       The most common name of a directory on a web server in which CGIprograms are stored.
+Client       A software program that is used to contact and obtain data from a Server software program on another computer, often across a great distance. EachClient program is designed to work with one or more specific kinds of Server programs, and each Server requires a specific kind of Client. A Web Browser is a specific kind of Client.
+co-location       Most often used to refer to having a server that belongs to one person or group physically located on an Internet-connected network that belongs to another person or group. Usually this is done because the server owner wants their machine to be on a high-speed Internet connection and/or they do not want the security risks of having the server on thier own network.
+Cookie       The most common meaning of "Cookie" on the Internet refers to a piece of information sent by a Web Server to a Web Browser that the Browser software is expected to save and to send back to the Server whenever the browser makes additional requests from the Server.
+CSS       A standard for specifying the appearance of text and other elements. CSS was developed for use with HTML in Web pages but is also used in other situations, notably in applications built using XPFE. CSS is typically used to provide a single "library" of styles that are used over and over throughout a large number of related documents, as in a web site. A CSS file might specify that all numbered lists are to appear in italics. By changing that single specification the look of a large number of documents can be easily changed.
+Cyberpunk       Cyberpunk was originally a cultural sub-genre of science fiction taking place in a not-so-distant, dystopian, over-industrialized society. The term grew out of the work of William Gibson and Bruce Sterling and has evolved into a cultural label encompassing many different kinds of human, machine, and punk attitudes. It includes clothing and lifestyle choices as well.
+Cyberspace       Term originated by author William Gibson in his novel Neuromancer the word Cyberspace is currently used to describe the whole range of information resources available through computer networks.
+DHCP       DHCP is a protocol by which a machine can obtain an IP number (and other network configuration information) from a server on the local network.
+DHTML       DHTML refers to web pages that use a combination of HTML, JavaScript, and CSS to create features such as letting the user drag items around on the web page, some simple kinds of animation, and many more.
+Digerati       The digital version of literati, it is a reference to a vague cloud of people seen to be knowledgeable, hip, or otherwise in-the-know in regardsto the digital revolution.
+DNS       The Domain Name System is the system that translates Internet domain names into IP numbers. A "DNS Server" is a server that performs this kind of translation.
+Domain       The unique name that identifies an Internet site. Domain Names always have 2 or more parts, separated by dots. The part on the left is the most specific, and the part on the right is the most general. A given machine may have more than one Domain Name but a given Domain Name points to only one machine. For example, the domain names:
+matisse.net   mail.matisse.net
+mail.matisse.net   workshop.matisse.net
+workshop.matisse.net       can all refer to the same machine, but each domain name can refer to no more than one machine.
+Download       Transferring data (usually a file) from a another computer to the computer you are are using. The opposite of upload.
+DSL       A method for moving data over regular phone lines. A DSL circuit is much faster than a regular phone connection, and the wires coming into the subscriber's premises are the same (copper) wires used for regular phone service. A DSL circuit must be configured to connect two specific locations, similar to a leased line (howeverr a DSL circuit is not a leased line.
+Another       In theory ADSL allows download speeds of up to 9 megabits per second and upload speeds of up to 640 kilobits per second.
+Email       Messages, usually text, sent from one person to another via computer. E-mail can also be sent automatically to a large number of addresses.
+Ethernet   A
+A       There is more than one type of Ethernet. By 2001 the standard type was "100-BaseT" which can handle up to about 100,000,000 bits-per-second and can be used with almost any kind of computer.
+Extranet       An intranet that is accesible to computers that are not physically part of a companys' own private network, but that is not accessible to the general public, for example to allow vendors and business partners to access a company web site.
+Often   FAQ
+FAQ       FAQs are documents that list and answerthe most common questions on a particular subject. There are hundreds of FAQs on subjects as diverse as Pet Grooming and Cryptography. FAQs are usually written by people who have tired of answering the same question over and over.
+FDDI       A standard for transmitting data on optical fiber cables at a rate of around 100,000,000 bits-per-second (10 times as fast as 10-BaseTEthernet, about twice as fast as T-3).
+Finger       An Internet software tool for locating people on other Internet sites. Finger is also sometimes used to give access to non-personal information, but the most common use is to see if a person has an account at a particular Internet site. Many sites do not allow incoming Finger requests, but many do.
+Fire       A combination of hardware and software that separates a Network into two or more parts for security purposes.
+Flame       Originally, "flame" meant to carry forth in a passionate manner in the spirit of honorable debate. Flames most often involved the use of flowery language and flaming well was an art form. More recently flame has come to refer to any kind of derogatory comment no matter how witless or crude.
+Flame       When an online discussion degenerates into a series of personal attacks against the debators, rather than discussion of their positions. A heated exchange.
+FTP   A
+A       FTP is a way to login to another Internet site for the purposes of retrieving and/or sending files. There are many Internet sites that have established publicly accessible repositories of material that can be obtained using FTP, by logging in using the account name "anonymous", thus these sites are called "anonymous ftp servers".
+Gateway       The technical meaning is a hardware or software set-up that translates between two dissimilar protocols, for example America Online has a gateway that translates between its internal, proprietary e-mail format and Internet e-mail format. Another, sloppier meaning of gateway is to describe any mechanism for providing access to another system, e.g. AOL might be called a gateway to the Internet.
+GIF       A common format for image files, especially suitable for images containing large areas of the same color. GIF format files of simple images are often smaller than the same file would be if stored in JPEG format, but GIF format does not store photographic images as well as JPEG.
+Gigabyte   1000
+1000   Gopher
+Gopher       Invented at the University of Minnesota in 1993 just before the Web, gopher was a widely successful method of making menus of material available over the Internet.
+hit       As used in reference to the World Wide Web, ?hit? means a single request from a web browser for a single item from a web server; thus in order for a web browser to display a page that contains 3 graphics, 4 ?hits? would occur at the server: 1 for the HTML page, and one for each of the 3 graphics.
+Home       Several meanings. Originally, the web page that your browser is set to use when it starts up. The more common meaning refers to the main web page for a business, organization, person or simply the main page out of a collection of web pages, e.g. "Check out so-and-so's new Home Page."
+Host       Any computer on a network that is a repository for services available to other computers on the network. It is quite common to have one host machine provide several services, such as SMTP (email) and HTTP (web).
+HTML       The coding language used to create Hypertext documents for use on the World Wide Web. HTML looks a lot like old-fashioned typesetting code, where you surround a block of text with codes that indicate how it should appear.
+HTTP       The protocol for moving hypertextfiles across the Internet. Requires a HTTP client program on one end, and an HTTP server program (such as Apache) on the other end. HTTP is the most important protocol used in the World Wide Web (WWW).
+Hypertext       Generally, any text that contains links to other documents - words or phrases in the document that can be chosen by a reader and which cause another document to be retrieved and displayed.
+IMAP       IMAP is gradually replacing POP as the main protocol used by email clients in communicating with email servers.
+IMAP   IMHO
+IMHO       A shorthand appended to a comment written in an online forum, IMHO indicates that the writer is aware that they areexpressing a debatable view, probably on a subject already under discussion. One of many such shorthands in common use online, especially in discussion forums.
+internet       Any time you connect 2 or more networks together, you have an internet - as in inter-national or inter-state.
+Internet       The vast collection of inter-connected networks that are connected using the TCP/IP protocols and that evolved from the ARPANET of the late 60's and early 70's.
+Intranet       A private network inside a company or organization that uses the same kinds of software that you would find on the public Internet, but that is only for internal use. Compare with extranet.
+IP       Sometimes called a dotted quad. A unique number consisting of 4 parts separated by dots, e.g.
+165.113.245.2       Every machine that is on the Internet has a unique IP number - if a machine does not have an IP number, it is not really on the Internet. Many machines (especially servers) also have one or more Domain Names that are easier for people to remember.
+IPv4       The most widley used version of the Internet Protocol (the "IP" part of TCP/IP.)
+IPv6       The successor to IPv4. Already deployed in some cases and gradually spreading, IPv6 provides a huge number of available IP Numbers - over a sextillion addresses (theoretically 2128). IPv6 allows every device on the planet to have its own IP Number.
+IRC       Basically a huge multi-user live chat facility. There are a number of major IRC servers around the world which are linked to each other. Anyone can create a channel and anything that anyone types in a given channel is seen by all others in the channel. Private channels can (and are) created for multi-person conference calls.
+ISDN       Basically a way to move more dataover existing regular phone lines. ISDN is available to much of the USA and in most markets it is priced very comparably to standard analog phone circuits. It can provide speeds of roughly 128,000 bits-per-second over regular phone lines. In practice, most people will be limited to 56,000or 64,000 bits-per-second.
+ISP       An institution that provides access to the Internet in some form, usually for money.
+IT       A very general term referring to the entire field of Information Technology - anything from computer hardware to programming to network management. Most medium and large size companies have IT Departments.
+Java   Java
+Java       Java is often used to build large, complex systems that involve several different computers interacting across networks, for example transaction processing systems.
+JavaScript       JavaScript is a programming language that is mostly used in web pages, usually to add features that make the web page more interactive. When JavaScript is included in an HTML file it relies upon the browser to interpret the JavaScript. When JavaScript is combined with Cascading Style Sheets(CSS), and later versions of HTML (4.0 and later) the result is often called DHTML.
+JDK       A software development package from Sun Microsystems that implements the basic set of tools needed to write, test and debugJava applications and applets
+JPEG       JPEG is most commonly mentioned as a format for image files. JPEG format is preferred to the GIF format for photographic images as opposed to line art or simple logo art.
+Kilobyte   A
+A   LAN
+LAN       A computer network limited to the immediate area, usually the same building or floor of a building.
+Leased       Refers to line such as a telephone line or fiber-optic cable that is rented for exclusive 24-hour, 7-days-a-week use from your location to another location. The highest speed data connections require a leased line.
+Linux       A widely used Open Source Unix-like operating system. Linux was first released by its inventor Linus Torvalds in 1991. There are versions of Linux for almost every available type of computer hardware from desktop machines to IBM mainframes. The inner workings of Linux are open and available for anyone to examine and change as long as they make their changes available to the public. This has resulted in thousands of people working on various aspects of Linux and adaptation of Linux for a huge variety of purposes, from servers to TV-recording boxes.
+Listserv       The most common kind of maillist, "Listserv" is a registered trademark of L-Soft international, Inc. Listservs originated on BITNET but they are now common on the Internet.
+Login   Noun
+Noun       Noun: The account name used to gain access to a computer system. Not a secret (contrast with Password).
+Maillist       (or Mailing List) A (usually automated) system that allows people to send e-mail to one address, whereupon their message is copied and sent to all of the other subscribers to the maillist. In this way, people who have many different kinds of e-mail access can participate in discussions together.
+Mashup       A web page or site made by automatically combining content from other sources, usually by using material available via RSS feeds and/or REST interfaces.
+Megabyte       Technically speaking, a million bytes. In many cases the term means 1024 kilobytes, which is a more than an even million.
+Meta       A specific kind of HTML tag that contains information not normally displayed to the user. Meta tags contan information about the page itself, hence the name ("meta" means "about this subject")
+MIME       Originally a standard for defining the types of files attached to standard Internet mail messages. The MIME standard has come to be used in many situations where one cmputer programs needs to communicate with another program about what kind of file is being sent.
+Mirror       Generally speaking, "to mirror" is to maintain an exact copy of something. Probably the most common use of the term on the Internet refers to "mirror sites" which are web sites, or FTP sites that maintain copies of material originated at another location, usually in order to provide more widespread access to the resource. For example, one site might create a library of software, and 5 other sites might maintain mirrors of that library.
+Modem       A device that connects a computer to a phone line. A telephone for a computer. A modem allows a computer to talk to other computers through the phone system. Basically, modems do for computers what a telephone does for humans.
+mod_perl       An add-on for the Apache web server software, mod_perl makes it possible to use the Perl language to add new features for the Apache server, and to increase the speed of Perl applications by as much as 30 times.
+MOO   One
+One   Mosaic
+Mosaic       The first WWW browser that was available for the Macintosh, Windows,and UNIX all with the same interface. Mosaic really started the popularity of the Web. The source-code to Mosaic was licensed by several companies and used to create many other web browsers.
+MUD       A (usually text-based) multi-user simulation environment. Some are purely for fun and flirting, others are used for serious software development, or education purposes and all thatlies in between. A significant feature of most MUDs is that users can create things that stay after they leave and which other users can interact within their absence, thus allowing a world to be built gradually and collectively.
+MUSE   One
+One   Netiquette
+Netiquette   The
+The   Netizen
+Netizen       Derived from the term citizen, referring to a citizen of the Internet,or someone who uses networked resources. The term connotes civic responsibility and participation.
+Netscape       A WWW Browser and the name of a company. The Netscape (tm) browser was originally based on the Mosaic program developed at the National Center for Supercomputing Applications (NCSA).
+Network       Any time you connect 2 or more computers together so that they can share resources, you have a computer network. Connect 2 or more networks together and you have an internet.
+Newsgroup   The
+The   NIC
+NIC       Generally, any office that handles information for a network. The most famous of these on the Internet was the InterNIC, which was where most new domain names were registered until that process was decentralized to a number of private companies. Also means "Network Interface card", which is the card in a computer that you plug a network cable into.
+NNTP       The protocol used by clientand server software to carry USENET postings back and forth over a TCP/IP network. If you are using any of the more common software such as Netscape, Nuntius, Internet Explorer, etc. to participate in newsgroups then you are benefiting from an NNTP connection.
+Node   Any
+Any   Open
+Open       Copyrighted information (such as this Glossary) that is made available by the copyright owner to the general public under license terms that allow reuse of the material, often with the requirement (as with this Glossary) that the re-user grant the public the same rights to the modified version that the re-user received from the copyright owner.
+Open       Open Source Software is software for which the underlying programming code is available to the users so that they may read it, make changes to it, and build new versions of the software incorporating their changes. There are many types of Open Source Software, mainly differing in the licensing term under which (altered) copies of the source code may (or must be) redistributed.
+Packet       The method used to move data around on the Internet. In packet switching, all the data coming out of a machine is broken up into chunks, each chunk has the address of where it came from and where it is going. This enables chunks of data from many different sources to co-mingle on the same lines, and be sorted and directed along different routes by special machines along the way. This way many people can use the same lines at the same time.
+Password       A code used to gain access (login) to a locked system. Good passwords contain letters and non-letters and are not simple combinations such as virtue7. A good password might be:
+5%df(29)   But
+But   PDF
+PDF       A file format designed to enable printing and viewing of documents with all their formatting (typefaces, images, layout, etc.) appearing the same regardless of what operating system is used, so a PDF document should look the same on Windows, Macintosh, linux, OS/2, etc. The PDF format is based on the widely used Postcript document-description language. Both PDF and Postscript were developed by the Adobe Corporation.
+Perl       Perl is a programming language that is widely used for both very simple, small tasks and for very large complex applications.
+Permalink       A "permanent link" to a particular posting in a blog. A permalink is a URI that points to a specific blog posting, rather than to the page in which the posting original occured (which may no longer contain the posting.)
+PHP       PHP is a programming language used almost exclusively for creating software that is part of a web site. The PHP language is designed to be intermingled with the HTML that is used to create web pages. Unlike HTML, the PHP code is read and processed by the web server software (HTML is read and processed by the web browser software.)
+ping       To check if a server is running. From the sound that a sonar systems makes in movies, you know, when they are searching for a submarine.
+Plug-in       A (usually small) piece of software that adds features to a larger piece of software. Common examples are plug-ins for the Netscape® browser and web server. Adobe Photoshop® also uses plug-ins.
+PNG       PNG is a graphics format specifically designed for use on the World Wide Web. PNG enable compression of images without any loss of quality, including high-resolution images. Another important feature of PNG is that anyone may create software that works with PNG images without paying any fees - the PNG standard is free of any licensing costs.
+podcasting       A form of audio broadcasting using the Internet, podcasting takes its name from a combination of "iPod" and broadcasting. iPod is the immensely popular digital audio player made by Apple computer, but podcasting does not actually require the use of an iPod.
+POP   Two
+Two   Point
+Point       A Point of Presence usually means a city or location where a network can be connected to, often with dial up phone lines. So if an Internet company says they will soon have a POP in Belgrade, it means that they will soon have a local phone number in Belgrade and/or a place where leased lines can connect to their network.
+Port       3 meanings. First and most generally, a place where information goes into or out of a computer, or both. E.g. the serial port on a personal computer is where a modem would be connected.
+gopher://peg.cwis.uci.edu:7000/       This shows a gopher server running on a non-standard port (the standard gopher port is 70).
+Portal       Usually used as a marketing term to described a Web site that is or is intended to be the first place people see when using the Web. Typically a "Portal site" has a catalog of web sites, a search engine, or both. A Portal site may also offer email and other service to entice people to use that site as their main "point of entry" (hence "portal") to the Web.
+Posting   A
+A   PPP
+PPP       The most common protocol used to connect home computers to the Internet over regular phone lines.
+Protocol       On the Internet "protocol" usually refers to a set of rules that define an exact format for communication between systems. For example the HTTP protocol defines the format for communication between web browsers and web servers, the IMAP protocol defines the format for communication between IMAP email servers and clients, and the SSL protocol defines a format for encrypted communications over the Internet.
+Virtually   Proxy
+Proxy       A Proxy Server sits in between a Client and the "real" Server that a Client is trying to use. Client's are sometimes configured to use a Proxy Server, usually an HTTP server. The clients makes all of it's requests from the Proxy Server, which then makes requests from the "real" server and passes the result back to the Client. Sometimes the Proxy server will store the results and give a stored result instead of making a new one (to reduce use of a Network). Proxy servers are commonly established on Local Area Networks
+PSTN   The
+The   RDF
+RDF       A set of rules (a sort of language) for creating descriptions of information, especially information available on the World Wide Web. RDF could be used to describe a collection of books, or artists, or a collection of web pages as in the RSS data format which uses RDF to create machine-readable summaries of web sites.
+REST       A loosely defined specification for HTTP-based services where all of the information required to process a request is present in the initial request and where each request receives only a single response, and where the response is in a machine-readable form.
+RFC       The name of the result and the process for creating a standard on the Internet. New standards are proposed and published on the Internet, as a Request For Comments. The proposal is reviewed by the Internet Engineering Task Force (http://www.ietf.org/), a consensus-building body that facilitates discussion, and eventually a new standard is established, but the reference number/name for the standard retains the acronym RFC, e.g. the official standard for e-mail message formats is RFC 822.
+Router       A special-purpose computer (or software package) that handles the connection between 2 or more Packet-Switched networks. Routers spend all their time looking at the source and destination addresses of the packets passing through them and deciding which route to send them on.
+RSS       A commonly used protocol for syndication and sharing of content, originally developed to facilitate the syndication of news articles, now widely used to share the contents of blogs. Mashups are often made using RSS feeds.
+RSS   RTSP
+RTSP       RTSP is an official Internet standard (RFC 2326) for delivering and receiving streams of data such as audio and video.
+SDSL       A version of DSL where the upload speeds and download speeds are the same.
+Search   A
+A       Some search engines work by automatically searching the contents of other systems and creating a database of the results. Other search engines contains only material manually approved for inclusion in a database, and some combine the two approaches.
+Security       A chunk of information (often stored as a text file) that is used by the SSL protocol to establish a secure connection.
+SEO       The practice of designing web pages so that they rank as high as possible in search results from search engines.
+Server       A computer, or a software package, that provides a specific kind of service to client software running on other computers. The term can refer to a particular piece of software, such as a WWW server, or to the machine on which the software is running, e.g. "Our mail server is down today, that's why e-mail isn't getting out."
+Servlet       A small computer program designed to be add capabilities to a larger piece of server software.
+SGML       Developed in 1986 SGML provides a rich set of rules for defining new data formats. A well-known example of using SGML is XML, which is a subset of SGML: The definition of XML is all of SGML minus a couple of dozen items. SGML is an International Standards Organization (ISO) standard: ISO 8879:1986.
+SLIP       A standard that was popular in the early 1990's for using a regular telephone line (a serial line) and a modem to connect a computer as a realInternet site. SLIP has largely been replaced by PPP.
+SMDS   A
+A   SMTP
+SMTP       The main protocol used to send electronic mail from server to server on the Internet.
+SMTP   SNMP
+SNMP       A set of standards for communication with devices connected to a TCP/IP network. Examples of these devices include routers, hubs, and switches.
+SNMP   SOAP
+SOAP       A protocol for client-server communication that sends and receives information "on top of" HTTP. The data sent and received is in a particular XML format specifically designed for use with SOAP. SOAP is similar to the XMLRPC protocol except that SOAP provides for more sophisticated handling of complex data being sent between a client and a server. SOAP actually grew from the work that created XMLRPC.
+Microsoft's   Spam
+Spam       An inappropriate attempt to use a mailing list, or USENET or other networked communications facility as if it was a broadcast medium (which it is not) by sending the same message to a large number of people who didn?t ask for it. The term probably comes from a famous Monty Python skit which featured the word spam repeated over and over. The term may also have come from someone?s low opinion of the food product with the same name, which is generally perceived as a generic content-free waste of resources. (Spam® is a registered trademark of Hormel Corporation, for its processed meat product.)
+Spyware       A somewhat vague term generally referring to software that is secretly installed on a users computer and that monitors use of the computer in some way without the users' knowledge or consent.
+SQL       A specialized language for sending queries to databases. Most industrial-strength and many smaller database applications can be addressed using SQL. Each specific application will have its own slightly different version of SQL implementing features unique to that application, but all SQL-capable databases support a common subset of SQL.
+A   SELECT
+SELECT   SSL
+SSL       A protocol designed by Netscape Communications to enable encrypted, authenticated communications across the Internet.
+Sysop       Anyone responsible for the physical operations of a computer system or network resource. For example, a System Administrator decides how often backups and maintenance should be performed and the System Operator performs those tasks.
+T-1       A leased-line connection capable of carrying data at 1,544,000 bits-per-second. At maximum theoretical capacity, a T-1 line could move a megabyte in less than 10 seconds. That is still not fast enough for full-screen, full-motion video, for which you need at least 10,000,000 bits-per-second. T-1 lines are commonly used to connect large LANs to theInternet.
+T-3       A leased-line connection capable of carrying data at 44,736,000 bits-per-second. This is more than enough to do full-screen, full-motionvideo.
+Tag       The term "tag" can be used as a noun or verb. As a noun, a tag is a basic element of the languages used to create web pages (HTML) and similar languages such as XML. Another, more recent meaning of tag is related to reader-crearted tags where blogs and other content (such as photos, music, etc.) may be "tagged" which means to assign a keyword, such as "politics" or "gardening", this enables searches for "all the blog postings in the past week that are tagged 'prenatal care'"
+TCP/IP       This is the suite of protocols that defines the Internet. Originally designed for the UNIX operating system, TCP/IP software is now included with every major kind of computer operating system. To be truly on the Internet, your computer must have TCP/IP software.
+Telnet       The command and program used to login from one Internet siteto another. The telnet command/program gets you to the login: prompt of another host.
+Terabyte   1000
+1000   Terminal
+Terminal       A device that allows you to send commands to a computer somewhere else. At a minimum, this usually means a keyboard and a display screen and some simple circuitry. Usually you will use terminal software in a personal computer - the software pretends to be (emulates) a physical terminal and allows you to type commands to a computer somewhere else.
+Terminal       A special purpose computer that has places to plug in many modemson one side, and a connection to a LAN or host machine onthe other side. Thus the terminal server does the work of answering the calls and passes the connections on to the appropriate node. Most terminal servers can provide PPP or SLIP services if connected to the Internet.
+TLD       The last (right-hand) part of a complete Domain Name. For example in the domain name www.matisse.net ".net" is the Top Level Domain.
+Trojan       A computer program is either hidden inside another program or that masquerades as something it is not in order to trick potential users into running it. For example a program that appears to be a game or image file but in reality performs some other function. The term "Trojan Horse" comes from a possibly mythical ruse of war used by the Greeks sometime between 1500 and 1200 B.C.
+UDP       One of the protocols for data transfer that is part of the TCP/IP suite of protocols. UDP is a "stateless" protocol in that UDP makes no provision for acknowledgement of packets received.
+Unix       A computer operating system (the basic software running on a computer, underneath things like word processors and spreadsheets). Unix is designed to be used by many people at the same time (it is multi-user) and has TCP/IP built-in. It is the most common operating system for servers on the Internet.
+Upload       Transferring data (usually a file) from a the computer you are using to another computer. The opposite of download.
+URI   An
+An       The first part of a URI is called the "scheme". the most well known scheme is http, but there are many others. Each URI scheme has its own format for how a URI should appear.
+Here   http://www.matisse.net/files/glossary.html
+http://www.matisse.net/files/glossary.html   telnet://well.sf.ca.us
+telnet://well.sf.ca.us   news:new.newusers.questions
+news:new.newusers.questions   URL
+URL       The term URL is basically synonymous with URI. URI has replaced URL in technical specifications.
+URN       A URI that is supposed to be available for along time. For an address to be a URN some institution is supposed to make a commitment to keep the resource available at that address.
+USENET       A world-wide system of discussion groups, with comments passed among hundreds of thousands of machines. Not all USENET machines are on the Internet. USENET is completely decentralized, with over 10,000 discussion areas, called newsgroups.
+UUENCODE       A method for converting files from Binaryto ASCII (text) so that they can be sent across the Internet via email.
+Veronica       Developed at the University of Nevada, Veronica was a constantly updated database of the names of almost every menu item on thousands of gopherservers. The Veronica database could be searched from most major gophermenus.
+Now   Virus
+Virus       A chunk of computer programming code that makes copies of itself without any concious human intervention. Some viruses do more than simply replicate themselves, they might display messages, install other software or files, delete software of files, etc.
+VOIP       A specification and various technologies used to allow making telephone calls over IP networks, especially the Internet.
+VPN       Usually refers to a network in which some of the parts are connected using the public Internet, but the data sent across the Internet is encrypted, so the entire network is "virtually" private.
+WAIS       Developed in the early 1990s WAIS was the first truly large-scale system to allow the indexing of huge quantities of information on the Web, and to make those indices searchable across networks such as the Internet. WAIS was also pioneering in its use of ranked (scored) results where the software tries to determine how relevant each result it.
+WAN       Any internet or network that covers an area larger than a single building or campus.
+Web   Short
+Short   Web
+Web       A document designed for viewing in a web browser. Typically written in HTML. A web site is made of one or more web pages.
+WebDAV       A set of extensions to the HTTP protocol that allows multiple users to not only read but also to add, delete, and change documents residing on a web server.
+Virtually   Website
+Website       The entire collection of web pages and other information (such as images, sound, and video files, etc.) that are made available through what appears to users as a single web server. Typically all the of pages in a web site share the same basic URL, for example the following URLs are all for pages within the same web site:
+http://www.baytherapy.com/   http://www.baytherapy.com/whatis/
+http://www.baytherapy.com/whatis/   http://www.baytherapy.com/teenagers/
+http://www.baytherapy.com/teenagers/       The term has a somewhat informal nature since a large organization might have separate "web sites" for each division, but someone might talk informally about the organizations' "web site" when speaking of all of them.
+Wi-Fi       A popular term for a form of wireless data communication, basically Wi-Fi is "Wireless Ethernet".
+Wiki       A wiki is a web site for which the content can be easily edited and altered from the web browser in which you are viewing it. Typically there is an "edit" button on each page and the wiki is configured to allow either anyone or only people with passwords to edit each page. The word "wiki" comes from a Hawaiian word meaning "quick."
+Worm       A worm is a virus that does not infect other programs. It makes copies of itself, and infects additional computers (typically by making use of network connections) but does not attach itself to additional programs; however a worm might alter, install, or destroy files and programs.
+WWW       World Wide Web (or simply Web for short) is a term frequently used (incorrectly) when referring to "The Internet", WWW has two major meanings:
+XHTML       Basically HTML expressed as valid XML. XHTML is intended to be used in the same places you would use HTML (creating web pages) but is much more strictly defined, which makes it a lot easier to create sofware that can read it, edit it, check it for errors, etc.
+XHTML   XML
+XML       A widely used system for defining data formats. XML provides a very rich system to define complex documents and data structures such as invoices, molecular data, news feeds, glossaries, inventory descriptions, real estate properties, etc.
+XMLRPC       A protocol for client-server communication that sends and receives information "on top of" HTTP. The data sent and received is in a particular XML format specifically designed for use with XMLRPC.
+XPFE       A suite of technologies used to create applications that will work and look the same on different computer operating systems. A widely used XPFE application is the Mozilla web browser and its derivities, such as the Netscape web browser in version 7 and later.
+XUL   A
+A       XUL used to define what the user interface will look like for a particular piece of software. XUL is used to define what buttons, scrollbars, text boxes, and other user-interface items will appear, but it is not used to define how those item will look (e.g. what color they are).
+-1
+
